@@ -1,5 +1,5 @@
 _repo: Reina-Valera-New-Testament-of-the-Bible-1909_5881
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translators:
   - agent_name: Reina, Casiodoro de
@@ -17,7 +17,12 @@ contributor:
     deathdate: 1625
     gutenberg_agent_id: '40990'
     url: http://www.gutenberg.org/2009/agents/40990
+covers:
+- cover_type: generated
+  image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/5881#Reina-Valera-New-Testament-of-the-Bible-1909
 gutenberg_bookshelf: Christianity
 gutenberg_issued: '2004-06-01'
 gutenberg_type: Text
